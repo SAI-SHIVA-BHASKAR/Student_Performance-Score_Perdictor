@@ -6,4 +6,5 @@ scipy
 scikit-learn==1.1.1
 catboost
 xgboost==1.7.4
+dill
 # -e .
